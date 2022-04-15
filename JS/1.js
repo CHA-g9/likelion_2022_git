@@ -1,0 +1,1 @@
+console.log('hello, world! 여긴 밖이다.');
