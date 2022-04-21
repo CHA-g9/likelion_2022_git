@@ -9,3 +9,9 @@ console.log('let 선언한', num_let);
 
 const num_const = 400;
 console.log('const 선언한', num_const, '나는 값이 바뀔 수 없지!');
+
+num_let = 450;
+document.write(num_let);
+
+// num_const = 480;
+// document.write(num_const);
